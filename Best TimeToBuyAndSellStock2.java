@@ -1,3 +1,5 @@
+//greedy approach
+//dynamic programming is in tag because previous element is used for current one
 class Solution {
     public int maxProfit(int[] prices) {
         int profit=0;
